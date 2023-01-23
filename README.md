@@ -12,3 +12,7 @@
 <a href="https://twitter.com/meisterdamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meisterdamy" height="30" width="40" /></a>
 <a href="https://instagram.com/damymeister" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="damymeister" height="30" width="40" /></a>
 </p>
+
+![damymeister's GitHub stats](https://github-readme-stats.vercel.app/api?username=damymeister&show_icons=true&theme=dark)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=damymeister&theme=highcontrast)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damymeister&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
